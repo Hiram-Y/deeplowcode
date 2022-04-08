@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a379e6d9-98c7-4709-830a-f9343588a987" name="128" url="http://106.13.102.198">
+        <fileTransfer host="106.13.102.198" port="18600" privateKey="C:\Users\summer_ness\.ssh\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="18600" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

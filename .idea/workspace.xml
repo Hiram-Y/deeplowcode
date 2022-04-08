@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6b81e28-08d0-43fb-ba2a-7d57040c9303" name="Default Changelist" comment="init" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>?</find>
+      <find>GetAllMainDataByFormCodeAndTaskCodeAndAdu</find>
+      <find>GetAllHaveAuditedMainData</find>
+      <find>allhaveauditedlist</find>
+      <find>GetAllToAuditedMainData</find>
+      <find>GetCountByTaskCodeAndFormCode</find>
+      <find>OpenTemplateInstall</find>
+      <find>GetAllTaskInfoByUserId</find>
+      <find>GetAllUserNameAndUserId</find>
+      <find>user</find>
+      <find>task_codes</find>
+      <find>getUseridsFromMainData</find>
+      <find>Search</find>
+      <find>AllTaskInfoByCorpId</find>
+      <find>GetOpenid</find>
+      <find>MainDataDetailInfoByCode</find>
+      <find>GetAllMainDataByFormCodeAndTaskCode</find>
+      <find>GetOneMainDataDetail</find>
+      <find>DenyOneMainData</find>
+      <find>sendDenyMessage</find>
+      <find>Deny</find>
+      <find>GetOpenId</find>
+      <find>getopenid</find>
+      <find>detailbycode</find>
+      <find>formatGatherData</find>
+      <find>CheckAssignDataAndUpdateMainDataState</find>
+      <find>#</find>
+      <find>InsertMulti</find>
+      <find>round</find>
+      <find>DeepW</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\Product\DeepWorkload</dir>
+      <dir>C:\Users\summer_ness\go\pkg\mod\github.com\astaxie\beego@v1.12.2</dir>
+      <dir>E:\Product\深度工作量产品\云版\DeepWorkload</dir>
+    </dirStrings>
+  </component>
+  <component name="GOROOT" url="file://C:/Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/deeplowcode" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/controllers/CommonController.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/controllers/MainDataController.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/models/form_field.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/models/node_config.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/models/department.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/models/main_data.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/controllers/GatherController.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/controllers/TaskController.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/utils/tools.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/controllers/DataAnalysisController.go" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/models/template_form_field.go" />
+        <option value="$PROJECT_DIR$/utils/formula/count.go" />
+        <option value="$PROJECT_DIR$/../大连民族大学-科技处-工作量/DLNU_KJC/controllers/CallbackController.go" />
+        <option value="$PROJECT_DIR$/utils/formula/IFS.go" />
+        <option value="$PROJECT_DIR$/utils/formula/arithmetic.go" />
+        <option value="$PROJECT_DIR$/utils/formula/tools.go" />
+        <option value="$PROJECT_DIR$/utils/formula/check.go" />
+        <option value="$PROJECT_DIR$/models/admin.go" />
+        <option value="$PROJECT_DIR$/controllers/UserController.go" />
+        <option value="$PROJECT_DIR$/controllers/GatherController.go" />
+        <option value="$PROJECT_DIR$/models/log.go" />
+        <option value="$PROJECT_DIR$/utils/gfc_test.go" />
+        <option value="$PROJECT_DIR$/../DLNU_KJC/controllers/MainDataController.go" />
+        <option value="$PROJECT_DIR$/controllers/PubTaskController.go" />
+        <option value="$PROJECT_DIR$/models/task_public.go" />
+        <option value="$PROJECT_DIR$/routers/filter.go" />
+        <option value="$PROJECT_DIR$/models/type_info.go" />
+        <option value="$PROJECT_DIR$/models/auth_corp_info.go" />
+        <option value="$PROJECT_DIR$/controllers/FormInfoController.go" />
+        <option value="$PROJECT_DIR$/models/market_type.go" />
+        <option value="$PROJECT_DIR$/controllers/CommonController.go" />
+        <option value="$PROJECT_DIR$/models/market_template_form_info.go" />
+        <option value="$PROJECT_DIR$/models/init.go" />
+        <option value="$PROJECT_DIR$/models/market_admin.go" />
+        <option value="$PROJECT_DIR$/models/login_log.go" />
+        <option value="$PROJECT_DIR$/controllers/MarketController.go" />
+        <option value="$PROJECT_DIR$/models/market_template_form_filed.go" />
+        <option value="$PROJECT_DIR$/models/node_config.go" />
+        <option value="$PROJECT_DIR$/models/template_form_info.go" />
+        <option value="$PROJECT_DIR$/models/assign_data.go" />
+        <option value="$PROJECT_DIR$/controllers/DataAnalysisController.go" />
+        <option value="$PROJECT_DIR$/controllers/TaskController.go" />
+        <option value="$PROJECT_DIR$/models/task.go" />
+        <option value="$PROJECT_DIR$/utils/tools.go" />
+        <option value="$PROJECT_DIR$/models/search.go" />
+        <option value="$PROJECT_DIR$/controllers/QywxController.go" />
+        <option value="$PROJECT_DIR$/utils/AbstracyAPI/HttpUtils.go" />
+        <option value="$PROJECT_DIR$/utils/AbstracyAPI/Api.go" />
+        <option value="$PROJECT_DIR$/utils/AbstractAPI/Api.go" />
+        <option value="$PROJECT_DIR$/utils/AbstractAPI/HttpUtils.go" />
+        <option value="$PROJECT_DIR$/controllers/ErrorCode.go" />
+        <option value="$PROJECT_DIR$/controllers/WxController.go" />
+        <option value="$PROJECT_DIR$/controllers/LoginController.go" />
+        <option value="$PROJECT_DIR$/models/userinfo.go" />
+        <option value="$PROJECT_DIR$/utils/AbstractAPI/AuthService.go" />
+        <option value="$PROJECT_DIR$/conf/config.go" />
+        <option value="$PROJECT_DIR$/controllers/MainDataController.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/routers/router.go" />
+        <option value="$PROJECT_DIR$/models/form_field.go" />
+        <option value="$PROJECT_DIR$/models/main_data.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-185" />
+    <option name="y" value="126" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectId" id="1wU6kHTtTGVeNept7lCYfBCF78L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DeepWorkload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeepWorkload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeepWorkload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeepWorkload" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeepWorkload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeepWorkload" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeepWorkload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeepWorkload" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeepWorkload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeepWorkload" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeepWorkload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeepWorkload" type="462c0819:PsiDirectoryNode" />
+              <item name="routers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeepWorkload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeepWorkload" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeepWorkload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeepWorkload" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeepWorkload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeepWorkload" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeepWorkload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeepWorkload" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="graphics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeepWorkload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="DeepWorkload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.15.5" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../dadaLowCode/test" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../DLNU_KJC/models/main_data.go" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Product\DeepWorkload\utils\formula" />
+      <recent name="E:\Product\DeepWorkload\utils\formula\formulas" />
+      <recent name="E:\Product\DeepWorkload\lib\pinyin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="DeepWorkload" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="DeepWorkload" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestABSCount in DeepWorkload/utils/formula" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="DeepWorkload" />
+      <working_directory value="$PROJECT_DIR$/utils/formula" />
+      <kind value="PACKAGE" />
+      <package value="DeepWorkload/utils/formula" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <framework value="gotest" />
+      <pattern value="^TestABSCount$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCalculate in DeepWorkload/utils" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="DeepWorkload" />
+      <working_directory value="$PROJECT_DIR$/utils" />
+      <kind value="PACKAGE" />
+      <package value="DeepWorkload/utils" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <framework value="gotest" />
+      <pattern value="^TestCalculate$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCount in DeepWorkload/utils/formula" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="DeepWorkload" />
+      <working_directory value="$PROJECT_DIR$/utils/formula" />
+      <kind value="PACKAGE" />
+      <package value="DeepWorkload/utils/formula" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <framework value="gotest" />
+      <pattern value="^TestCount$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetExprSlice in DeepWorkload/utils/formula" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="DeepWorkload" />
+      <working_directory value="$PROJECT_DIR$/utils/formula" />
+      <kind value="PACKAGE" />
+      <package value="DeepWorkload/utils/formula" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <framework value="gotest" />
+      <pattern value="^TestGetExprSlice$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Test.TestCalculate in DeepWorkload/utils" />
+        <item itemvalue="Go Test.TestABSCount in DeepWorkload/utils/formula" />
+        <item itemvalue="Go Test.TestCount in DeepWorkload/utils/formula" />
+        <item itemvalue="Go Test.TestGetExprSlice in DeepWorkload/utils/formula" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TestHistory">
+    <history-entry file="TestABSCount_in_DeepWorkload_utils_formula - 2020.10.21 at 18h 07m 59s.xml">
+      <configuration name="TestABSCount in DeepWorkload/utils/formula" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestABSCount_in_DeepWorkload_utils_formula - 2020.10.21 at 18h 08m 05s.xml">
+      <configuration name="TestABSCount in DeepWorkload/utils/formula" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestABSCount_in_DeepWorkload_utils_formula - 2020.10.21 at 18h 08m 10s.xml">
+      <configuration name="TestABSCount in DeepWorkload/utils/formula" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestABSCount_in_DeepWorkload_utils_formula - 2020.10.21 at 18h 08m 46s.xml">
+      <configuration name="TestABSCount in DeepWorkload/utils/formula" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestABSCount_in_DeepWorkload_utils_formula - 2020.10.21 at 18h 08m 52s.xml">
+      <configuration name="TestABSCount in DeepWorkload/utils/formula" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCalculate_in_DeepWorkload_utils - 2020.11.12 at 17h 03m 00s.xml">
+      <configuration name="TestCalculate in DeepWorkload/utils" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCalculate_in_DeepWorkload_utils - 2020.11.12 at 17h 03m 10s.xml">
+      <configuration name="TestCalculate in DeepWorkload/utils" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCalculate_in_DeepWorkload_utils - 2020.11.12 at 17h 08m 53s.xml">
+      <configuration name="TestCalculate in DeepWorkload/utils" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCalculate_in_DeepWorkload_utils - 2020.11.12 at 17h 09m 03s.xml">
+      <configuration name="TestCalculate in DeepWorkload/utils" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCalculate_in_DeepWorkload_utils - 2020.11.12 at 17h 16m 52s.xml">
+      <configuration name="TestCalculate in DeepWorkload/utils" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-185" y="126" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8788368" visible="true" weight="0.21748401" />
+      <window_info id="Structure" order="1" sideWeight="0.12116317" side_tool="true" weight="0.13646056" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.18329719" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Statistic" order="10" sideWeight="0.4978678" weight="0.12472885" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.20693392" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5271855" side_tool="true" visible="true" weight="0.1637744" />
+      <window_info anchor="bottom" id="File Transfer" order="13" sideWeight="0.4728145" visible="true" weight="0.1637744" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8788368" visible="true" weight="0.15884861" />
+      <window_info id="Structure" order="1" sideWeight="0.12116317" side_tool="true" weight="0.13646056" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.3109426" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Statistic" order="10" sideWeight="0.49840087" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.20801733" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5191898" side_tool="true" visible="true" weight="0.037453182" />
+      <window_info anchor="bottom" id="File Transfer" order="13" sideWeight="0.48081023" visible="true" weight="0.037453182" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.cn" />
+      </map>
+    </environment>
+    <proxy>https://goproxy.cn</proxy>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/astaxie/beego@v1.12.2/orm/types.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10470">
+          <caret line="354" column="8" selection-start-line="354" selection-start-column="8" selection-end-line="354" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/market_template_form_filed.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="62" column="49" selection-start-line="62" selection-start-column="49" selection-end-line="62" selection-end-column="49" />
+          <folding>
+            <element signature="e#16#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/CommonController_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/formula/check.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/formula/gfc_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/formula/formulas.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/formula/gfc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1590">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/formula/count.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/formula/IFS.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/formula/arithmetic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/template_form_info.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding>
+            <element signature="e#16#146#0" expanded="true" />
+            <element signature="n#!!block;n#EditType#0" />
+            <element signature="n#!!block;n#AddTemplateFormsByJson#0" />
+            <element signature="n#!!block;n#GetAllTempFormTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/filter.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/QywxController.go" />
+    <entry file="file://$PROJECT_DIR$/utils/AbstracyAPI/HttpUtils.go" />
+    <entry file="file://$PROJECT_DIR$/utils/AbstracyAPI/Api.go" />
+    <entry file="file://$PROJECT_DIR$/models/task.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="553" selection-start-line="553" selection-end-line="553" />
+          <folding>
+            <element signature="e#3056#4184#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/DataAnalysisController.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="39" column="40" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/UserController.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4111">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#21#238#0" expanded="true" />
+            <element signature="n#!!block;n#CheckUserId#0" />
+            <element signature="n#!!block;n#CheckMobile#0" />
+            <element signature="n#!!block;n#GetOneUserInfoDetail#0" />
+            <element signature="n#!!block;n#AddOneUser#0" />
+            <element signature="n#!!block;n#SearchUser#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/astaxie/beego@v1.12.2/controller.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="421" column="21" selection-start-line="421" selection-start-column="21" selection-end-line="421" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/ErrorCode.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/WxController.go" />
+    <entry file="file://$PROJECT_DIR$/controllers/DepartmentController.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="104" column="9" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/userinfo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17760">
+          <caret line="694" column="33" selection-start-line="694" selection-start-column="5" selection-end-line="694" selection-end-column="33" />
+          <folding>
+            <element signature="e#16#174#0" expanded="true" />
+            <element signature="e#991#1014#0" />
+            <element signature="e#4187#5249#0" />
+            <element signature="e#6469#6591#0" />
+            <element signature="e#6648#6770#0" />
+            <element signature="e#6819#7339#0" />
+            <element signature="e#7421#8094#0" />
+            <element signature="e#8152#8295#0" />
+            <element signature="e#11390#11622#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pinyin/pinyin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5100">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/AbstractAPI/HttpUtils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.sum">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="108" column="39" selection-start-line="108" selection-start-column="39" selection-end-line="108" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/astaxie/beego@v1.12.2/orm/cmd.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3240">
+          <caret line="113" column="29" selection-start-line="113" selection-start-column="25" selection-end-line="113" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/astaxie/beego@v1.12.2/orm/db.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/astaxie/beego@v1.12.2/orm/models_fields.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/form_field.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="51" column="16" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/assign_data.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="43" selection-start-line="43" selection-end-line="81" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#CheckAssignDataAndUpdateMainDataState#0" />
+            <element signature="n#!!block;n#formateAssignDataUserName#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/TaskController.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16830">
+          <caret line="566" column="45" selection-start-line="566" selection-start-column="34" selection-end-line="566" selection-end-column="53" />
+          <folding>
+            <element signature="e#21#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5130">
+          <caret line="174" column="1" selection-start-line="174" selection-start-column="1" selection-end-line="174" selection-end-column="1" />
+          <folding>
+            <element signature="e#17#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/search.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/task_public.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3270">
+          <caret line="115" column="84" selection-start-line="115" selection-start-column="84" selection-end-line="115" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/node_config.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7230">
+          <caret line="248" column="28" selection-start-line="248" selection-start-column="24" selection-end-line="248" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/MainDataController.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6660">
+          <caret line="288" column="44" selection-start-line="288" selection-start-column="44" selection-end-line="288" selection-end-column="44" />
+          <folding>
+            <element signature="n#!!block;n#DelOneMainData#0" />
+            <element signature="n#!!block;n#getErrCode#0" />
+            <element signature="n#!!block;n#DelMainDatas#0" />
+            <element signature="n#!!block;n#CommitMainDataWithOutAudit#0" />
+            <element signature="n#!!block;n#BatchCommitMainDataWithOutAudit#0" />
+            <element signature="n#!!block;n#CommitMainDataWithNodeCode#0" />
+            <element signature="n#!!block;n#BatchCommitMainDataWithNodeCode#0" />
+            <element signature="n#!!block;n#CallBackOneMainData#0" />
+            <element signature="n#!!block;n#ApproveMainDatas#0" />
+            <element signature="n#!!block;n#DenyMainDatas#0" />
+            <element signature="n#!!block;n#GetAuditList#0" />
+            <element signature="n#!!block;n#GetAllLogByDataCode#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/CommonController.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="100" column="28" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/MarketController.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/FormInfoController.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="64" column="24" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!block;n#GetOpenTemplateFormInfo#0" />
+            <element signature="n#!!block;n#DelTemplateForm#0" />
+            <element signature="n#!!block;n#EditType#0" />
+            <element signature="n#!!block;n#GetAuthorizeTemplateFormInfo#0" />
+            <element signature="n#!!block;n#GetAllAuthorizeFormInfoByTypeId#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/department.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4560">
+          <caret line="161" column="42" selection-start-line="161" selection-start-column="42" selection-end-line="161" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/LoginController.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+          <folding>
+            <element signature="n#!!block;n#checkPhoneYanZM#0" />
+            <element signature="n#!!block;n#CheckMobile#0" />
+            <element signature="n#!!block;n#SignUp#0" />
+            <element signature="n#!!block;n#GetOpenId#0" />
+            <element signature="n#!!block;n#CheckAdmin#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/GatherController.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!block;n#GatherListByTaskCodeAndUserId#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/AbstractAPI/AuthService.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="78" column="33" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="33" />
+          <folding>
+            <element signature="e#21#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/main_data.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="471" column="54" selection-start-line="471" selection-start-column="54" selection-end-line="471" selection-end-column="54" />
+          <folding>
+            <element signature="e#31296#32298#0" />
+            <element signature="e#43340#43744#0" />
+            <element signature="e#44347#44697#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/app.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/config.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/AbstractAPI/Api.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!block;n#HttpCall#0" />
+            <element signature="n#!!block;n#appendUrlArgs#0" />
+            <element signature="n#!!block;n#appendArgs#0" />
+            <element signature="n#!!block;n#appendToken#0" />
+            <element signature="n#!!block;n#httpGet#0" />
+            <element signature="n#!!block;n#checkResponse#0" />
+            <element signature="n#!!block;n#tokenExpired#0" />
+            <element signature="n#!!block;n#refreshToken#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/tools.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="90" column="14" lean-forward="true" selection-start-line="90" selection-start-column="14" selection-end-line="90" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!block;n#SqlStringValue#0" />
+            <element signature="n#!!block;n#IsExistInt#0" />
+            <element signature="n#!!block;n#DeleteRepeat#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
