@@ -21,7 +21,7 @@ func init() {
 	_ = orm.RegisterDataBase(
 		"default",
 		"postgres",
-		"user=postgres password=652684328 dbname=DeepWorkload host=127.0.0.1 port=5432 sslmode=disable")
+		"user=postgres password=xxx dbname=DeepWorkload host=127.0.0.1 port=5432 sslmode=disable")
 	orm.SetMaxIdleConns("default", 1000) // 最大打开的连接数
 	orm.SetMaxOpenConns("default", 500)
 }
